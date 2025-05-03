@@ -10,7 +10,7 @@
 I'm a versatile Systems and Information Technology Engineer with a passion for crafting engaging and efficient web experiences. From crafting elegant front-end interfaces to architecting robust back-end solutions, I've been on a journey of continuous learning and innovation.
 
 - 🌐 Explore my projects on my [Portfolio](https://kevinronu.netlify.app/)
-- 💬 Let's chat about React, JavaScript, Ruby, Go, PostgreSQL, CSS, and HTML
+- 💬 Let's chat about Go, JavaScript, AWS, TypeScript, Vue, React, PostgreSQL, CSS, and HTML
 - 📫 Reach me at kevinronu@gmail.com
 
 ## About Me
